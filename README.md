@@ -7,6 +7,9 @@ A collection of skills that extend Claude Code with specialized knowledge and wo
 | Skill   | Description                                                  |
 | ------- | ------------------------------------------------------------ |
 | `seshi` | Export Claude Code sessions as readable markdown transcripts |
+| `oklch-converter` | Convert CSS colors between HSL and OKLCH color spaces with mathematical accuracy |
+| `html-in-canvas` | Implement the WICG HTML-in-Canvas API for rendering HTML/CSS into canvas contexts |
+| `jobcrawl` | CLI tool for crawling career pages, job aggregators, and ATS providers |
 
 ## Structure
 
